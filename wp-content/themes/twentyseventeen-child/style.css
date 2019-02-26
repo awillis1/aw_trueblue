@@ -1,0 +1,30 @@
+/*
+Theme Name: Twenty Seventeen Child Theme
+Theme URI: 
+Description: A child theme of Twenty Seventeen
+Author: <your name>
+Author URI: <your website>
+Template: twentyseventeen
+Version: 0.1.0
+*/
+
+.site-info {display: none;}
+
+h2.entry-title {display: none;}
+
+.entry-title {display: none;}
+
+/* Move nav bar to top of page 
+.navigation-top {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    }
+*/
+/* Move banner down below top nav bar 
+.custom-header-media {
+    position: relative;
+    top: 30px;
+    }
+*/
+
